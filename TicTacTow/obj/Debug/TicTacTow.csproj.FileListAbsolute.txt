@@ -1,0 +1,16 @@
+C:\Users\Alon\Desktop\C# Drills\Finell_Project\TicTacTow\TicTacTow\bin\Debug\TicTacTow.exe.config
+C:\Users\Alon\Desktop\C# Drills\Finell_Project\TicTacTow\TicTacTow\bin\Debug\TicTacTow.exe
+C:\Users\Alon\Desktop\C# Drills\Finell_Project\TicTacTow\TicTacTow\bin\Debug\TicTacTow.pdb
+C:\Users\Alon\Desktop\C# Drills\Finell_Project\TicTacTow\TicTacTow\obj\Debug\TicTacTow.csproj.AssemblyReference.cache
+C:\Users\Alon\Desktop\C# Drills\Finell_Project\TicTacTow\TicTacTow\obj\Debug\TicTacTow.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alon\Desktop\C# Drills\Finell_Project\TicTacTow\TicTacTow\obj\Debug\TicTacTow.csproj.CoreCompileInputs.cache
+C:\Users\Alon\Desktop\C# Drills\Finell_Project\TicTacTow\TicTacTow\obj\Debug\TicTacTow.exe
+C:\Users\Alon\Desktop\C# Drills\Finell_Project\TicTacTow\TicTacTow\obj\Debug\TicTacTow.pdb
+C:\Users\Alon\Desktop\C# Drills\Finell_Project\TicTacTow_Against_Computer\TicTacTow\bin\Debug\TicTacTow.exe.config
+C:\Users\Alon\Desktop\C# Drills\Finell_Project\TicTacTow_Against_Computer\TicTacTow\bin\Debug\TicTacTow.exe
+C:\Users\Alon\Desktop\C# Drills\Finell_Project\TicTacTow_Against_Computer\TicTacTow\bin\Debug\TicTacTow.pdb
+C:\Users\Alon\Desktop\C# Drills\Finell_Project\TicTacTow_Against_Computer\TicTacTow\obj\Debug\TicTacTow.csproj.AssemblyReference.cache
+C:\Users\Alon\Desktop\C# Drills\Finell_Project\TicTacTow_Against_Computer\TicTacTow\obj\Debug\TicTacTow.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alon\Desktop\C# Drills\Finell_Project\TicTacTow_Against_Computer\TicTacTow\obj\Debug\TicTacTow.csproj.CoreCompileInputs.cache
+C:\Users\Alon\Desktop\C# Drills\Finell_Project\TicTacTow_Against_Computer\TicTacTow\obj\Debug\TicTacTow.exe
+C:\Users\Alon\Desktop\C# Drills\Finell_Project\TicTacTow_Against_Computer\TicTacTow\obj\Debug\TicTacTow.pdb
